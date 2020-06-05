@@ -8,6 +8,8 @@ The purpose of this repository is to:
 * record my progress towards becoming a proficient Python programmer
 * let other programmers review my work
 
+## Contents
+
 **Chapter Projects**  
 Contains code from guided projects that appear later in the book.
 
@@ -19,3 +21,6 @@ My answers to the practice questions at the end of every chapter.
 
 **Tutorial Files**
 Various snippets of code created while going through the book to test and understand concepts presented in the book.
+
+## Additional Links
+[Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
