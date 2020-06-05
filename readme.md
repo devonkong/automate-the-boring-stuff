@@ -16,10 +16,10 @@ Contains code from guided projects that appear later in the book.
 **Practice Projects**  
 This folder contains code that I've written in response to prompts in the book.
 
-**Practice Questions**
+**Practice Questions**  
 My answers to the practice questions at the end of every chapter.
 
-**Tutorial Files**
+**Tutorial Files**  
 Various snippets of code created while going through the book to test and understand concepts presented in the book.
 
 ## Additional Links
